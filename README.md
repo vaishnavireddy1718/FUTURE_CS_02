@@ -7,6 +7,7 @@
 - Task Name : Phishing Email Detection & Awareness System  
 
 🎯 Objective
+
 The objective of this task is to analyze different types of email messages to identify phishing attempts, understand common phishing techniques, and create awareness about email-based cyber threats. This task aims to improve the ability to recognize malicious emails and reduce the risk of phishing attacks through proper awareness and prevention strategies.
 
  🛠 Tools Used
@@ -39,6 +40,7 @@ The objective of this task is to analyze different types of email messages to id
 🚨 Email Analysis
 
 1. Spoofed or Fake Sender Addresses
+   
 Description:  
 Phishing emails often use fake or spoofed sender addresses to appear legitimate.
 
@@ -49,6 +51,7 @@ Mitigation:
 Verify sender domains and avoid trusting unknown or suspicious email addresses.
 
 2. Urgent and Threatening Language
+   
 Description:
 Phishing emails create panic by threatening account suspension or immediate consequences.
 
@@ -59,6 +62,7 @@ Mitigation:
 Encourage users to pause, verify, and avoid acting on urgent email requests.
 
 3. Suspicious Links and Requests
+   
 Description:  
 Phishing emails contain malicious links or requests for sensitive information.
 
